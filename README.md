@@ -1,1 +1,1 @@
-# do-open-source
+![Open Source Wave](./Images/poster.png)

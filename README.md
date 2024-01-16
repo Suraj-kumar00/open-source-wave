@@ -1,1 +1,1 @@
-![Open Source Wave](./Images/poster.png)
+![Open Source Wave](./Assets/poster.png)
